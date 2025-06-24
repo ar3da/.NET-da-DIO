@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute(".NET-da-DIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee6a4cbb011563be717573eb2bdb5e255e993165")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37ad35bae75323941f0613bd6f4e9fdad5b1a7c2")]
 [assembly: System.Reflection.AssemblyProductAttribute(".NET-da-DIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute(".NET-da-DIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
