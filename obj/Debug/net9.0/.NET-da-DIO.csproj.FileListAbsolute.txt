@@ -1,0 +1,15 @@
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\bin\Debug\net9.0\.NET-da-DIO.exe
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\bin\Debug\net9.0\.NET-da-DIO.deps.json
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\bin\Debug\net9.0\.NET-da-DIO.runtimeconfig.json
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\bin\Debug\net9.0\.NET-da-DIO.dll
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\bin\Debug\net9.0\.NET-da-DIO.pdb
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\.NET-da-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\.NET-da-DIO.AssemblyInfoInputs.cache
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\.NET-da-DIO.AssemblyInfo.cs
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\.NET-da-DIO.csproj.CoreCompileInputs.cache
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\.NET-da-DIO.sourcelink.json
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\.NET-da-DIO.dll
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\refint\.NET-da-DIO.dll
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\.NET-da-DIO.pdb
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\.NET-da-DIO.genruntimeconfig.cache
+C:\Users\areda\OneDrive\Desktop\Python\.NET-da-DIO\obj\Debug\net9.0\ref\.NET-da-DIO.dll
